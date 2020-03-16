@@ -6,3 +6,6 @@ ChulaMOOC เป็น platform ที่ใช้สำหรับเรีย
 ChulaMOOC is platform for Chulalongkorn onlie course<br/>
 I used data from ChulaMOOC to predict if a person finish a course<br/><br/>
 **ChulaMOOCSubset use some data from all data 
+
+# Here my work on Google Colab
+https://drive.google.com/drive/u/0/folders/1lquJZvq6pKaekUVHfrojb9ITAefA1b69
